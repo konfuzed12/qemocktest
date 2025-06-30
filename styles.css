@@ -4,6 +4,12 @@
     font-family: Poppins, sans-serif;
     box-sizing: border-box;
 }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
 
 body {
     font-family: Arial, sans-serif;
