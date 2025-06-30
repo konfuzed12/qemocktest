@@ -36,7 +36,7 @@ const Questions = [
     ]
 },
 {
-    question: "Express the statement in propositional formula, 'The campus server does not work if the internet is off.'",
+    question: "Express the statement in propositional formula, 'The campus server does not work if the internet is off.' \nWhere: p: internet is on \n the campus server works",
     answers: [
         { text: "p ∨ q", correct: false },
         { text: "p → q", correct: false },
